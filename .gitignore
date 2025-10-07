@@ -1,0 +1,17 @@
+# Bỏ dataset và file nặng
+UCF50/
+data/
+dataset/
+*.mp4
+*.avi
+*.zip
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Bỏ IDE và môi trường ảo
+.idea/
+.vscode/
+venv/
+__pycache__/
